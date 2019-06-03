@@ -1,0 +1,7 @@
+cd 桌面
+git clone 地址
+添加内容
+cd 当前文件夹
+git add *
+git commit -m"名字"
+git push
